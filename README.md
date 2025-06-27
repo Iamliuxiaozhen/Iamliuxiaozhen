@@ -10,6 +10,6 @@
 > 
 > QQ:`2418587005`
 
-> [!NOTE]
+> [!tip]
 >
 >Since 26.06.2025, Oliver has turned on vigilance mode on GitHub, and previous commits may be unsigned, which is normal.
