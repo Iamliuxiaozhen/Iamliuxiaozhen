@@ -5,9 +5,8 @@
 - I love programming
 - I love programming, and I love exploring and creating fresh projects and repositories on GitHub
 
-| | |
-|-|-|
 | ![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iamliuxiaozhen&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamliuxiaozhen&layout=pie)](https://github.com/anuraghazra/github-readme-stats) |
+| :- | -: |
 > Socializing
 >
 > Wechat: `hi_liu-xiaozhen`
