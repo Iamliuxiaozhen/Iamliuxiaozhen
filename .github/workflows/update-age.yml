@@ -1,0 +1,51 @@
+name: Update age
+
+on:
+  schedule:
+    # GitHub cron uses UTC. This runs at 00:05 on June 15 in Asia/Shanghai.
+    - cron: "5 16 14 6 *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Increase age in README
+        run: |
+          year="$(TZ=Asia/Shanghai date +%Y)"
+          day="$(TZ=Asia/Shanghai date +%m-%d)"
+
+          if [ "$day" != "06-15" ]; then
+            echo "Today is $day in Asia/Shanghai, not 06-15. Skipping."
+            exit 0
+          fi
+
+          if git log --format=%s --grep="^Update age for $year$" | grep -q .; then
+            echo "Age has already been updated for $year. Skipping."
+            exit 0
+          fi
+
+          perl -0pi -e 's/I'\''m a (\d+)-year-old developer\./"I'\''m a " . ($1 + 1) . "-year-old developer."/e' README.md
+          echo "UPDATE_YEAR=$year" >> "$GITHUB_ENV"
+
+      - name: Commit and push changes
+        run: |
+          if git diff --quiet; then
+            echo "No age change needed."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update age for $UPDATE_YEAR"
+          git push
