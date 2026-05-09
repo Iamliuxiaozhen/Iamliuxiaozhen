@@ -1,15 +1,48 @@
-- 👋 Hi, I’m Oliver Lin
-- I'm a 14-year-old developer.
-- I am a middle school student from China
-- I'm from Guangdong Province
-- I love programming
-- I love programming, and I love exploring and creating fresh projects and repositories on GitHub
-- You can contact me via WeChat/QQ/email/Telegram/Signal
->WeChat: hi_liu-xiaozhen  
->QQ: 2418587005  
->Email:oliver@liuxiaozhen.dev  
->Telegram:[telegram](https://t.me/liuxiaozhen)  
->Signal:liuxiaozhen.87  
+# Oliver Lin
 
-| ![Oliver's GitHub stats](https://github-readme-stats.liuxiaozhen.dev/api?username=Iamliuxiaozhen&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) | [![Top Langs](https://github-readme-stats.liuxiaozhen.dev/api/top-langs/?username=Iamliuxiaozhen&layout=pie)](https://github.com/anuraghazra/github-readme-stats) |
-| :- | -: |
+> 14-year-old open source contributor from China 🇨🇳
+
+Building with Linux, TypeScript, AI and infrastructure.
+
+## About Me
+
+- 🐧 Linux enthusiast
+- ⚡ Full-stack developer
+- 🛠 Open source contributor
+- 🤖 Exploring LLMs and AI infra
+- 🌏 Based in Guangdong, China
+
+## Open Source
+
+- Contributor to [win12-online/win12](https://github.com/win12-online/win12)
+- Contributor to [fastfetch](https://github.com/fastfetch-cli/fastfetch)
+- Active on GitHub OSS projects
+
+## Tech Stack
+
+```bash
+OS        Ubuntu 26.04 / KDE / GNOME
+Editor    VS Code
+Shell     zsh + starship
+Languages TypeScript / Python / C++
+Infra     Docker / Cloudflare / Linux
+```
+
+## Featured Projects
+
+### OliveAI(Not online yet)
+Local LLM fine-tuning experiments using Qwen and LoRA.
+
+### Chinese-law
+Chinese law related website powered by Next.js edge runtime.
+
+## GitHub Stats
+
+| ![](https://github-readme-stats.liuxiaozhen.dev/api?username=Iamliuxiaozhen&show_icons=true&theme=tokyonight&hide_border=true) | ![](https://streak-stats.demolab.com?user=Iamliuxiaozhen&theme=tokyonight&hide_border=true) |
+| :- | :- |
+
+## Contact
+
+- Website: https://liuxiaozhen.dev
+- Telegram: https://t.me/liuxiaozhen
+- Email: oliver@liuxiaozhen.dev
