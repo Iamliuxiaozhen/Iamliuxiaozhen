@@ -1,6 +1,6 @@
 # Oliver Lin
 
-> 14-year-old open source contributor from China 🇨🇳
+> 15-year-old open source contributor from China 🇨🇳
 
 Building with Linux, TypeScript, AI and infrastructure.
 
