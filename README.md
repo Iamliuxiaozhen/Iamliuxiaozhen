@@ -8,7 +8,7 @@ Building with Linux, TypeScript, AI and infrastructure.
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Open+Source+Contributor;Linux+Enthusiast;Full-stack+Developer;Exploring+AI+and+Infrastructure" />
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Iamliuxiaozhen&theme=tokyo-night&hide_border=true)](...)
+![activity graph](./profile/activity-graph.svg)
 
 ## About Me
 
@@ -44,7 +44,7 @@ Chinese law related website powered by Next.js edge runtime.
 
 ## GitHub Stats
 
-| ![](https://github-readme-stats.liuxiaozhen.dev/api?username=Iamliuxiaozhen&show_icons=true&theme=tokyonight&hide_border=true) | ![](https://streak-stats.demolab.com?user=Iamliuxiaozhen&theme=tokyonight&hide_border=true) |
+| ![GitHub stats](./profile/stats.svg) | ![GitHub streak](./profile/streak.svg) |
 | :- | :- |
 
 ## Contact
