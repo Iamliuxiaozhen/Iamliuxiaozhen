@@ -1,6 +1,6 @@
 <svg width="900" height="260" viewBox="0 0 900 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Iamliuxiaozhen activity graph</title>
-  <desc id="desc">GitHub contributions by week for the last year. Total: 3904. Last 4 weeks: 410.</desc>
+  <desc id="desc">GitHub contributions by week for the last year. Total: 3912. Last 4 weeks: 317.</desc>
   <style>
     .title { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
     .summary { font: 500 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a9b1d6; }
@@ -41,7 +41,7 @@
   </defs>
   <rect width="900" height="260" rx="4.5" fill="#1a1b27"/>
   <text x="28" y="34" class="title">Contribution Graph</text>
-  <text x="872" y="32" text-anchor="end" class="summary">3904 total · 410 last 4 weeks · updated 2026-10-03</text>
+  <text x="872" y="32" text-anchor="end" class="summary">3912 total · 317 last 4 weeks · updated 2026-10-04</text>
   <g>
     <line x1="58" y1="54" x2="58" y2="212" class="week-grid"/><line x1="73.7" y1="54" x2="73.7" y2="212" class="week-grid"/><line x1="89.4" y1="54" x2="89.4" y2="212" class="week-grid"/><line x1="105.1" y1="54" x2="105.1" y2="212" class="week-grid"/><line x1="120.8" y1="54" x2="120.8" y2="212" class="week-grid"/><line x1="136.5" y1="54" x2="136.5" y2="212" class="week-grid"/><line x1="152.2" y1="54" x2="152.2" y2="212" class="week-grid"/><line x1="167.8" y1="54" x2="167.8" y2="212" class="week-grid"/><line x1="183.5" y1="54" x2="183.5" y2="212" class="week-grid"/><line x1="199.2" y1="54" x2="199.2" y2="212" class="week-grid"/><line x1="214.9" y1="54" x2="214.9" y2="212" class="week-grid"/><line x1="230.6" y1="54" x2="230.6" y2="212" class="week-grid"/><line x1="246.3" y1="54" x2="246.3" y2="212" class="week-grid"/><line x1="262" y1="54" x2="262" y2="212" class="week-grid"/><line x1="277.7" y1="54" x2="277.7" y2="212" class="week-grid"/><line x1="293.4" y1="54" x2="293.4" y2="212" class="week-grid"/><line x1="309.1" y1="54" x2="309.1" y2="212" class="week-grid"/><line x1="324.8" y1="54" x2="324.8" y2="212" class="week-grid"/><line x1="340.5" y1="54" x2="340.5" y2="212" class="week-grid"/><line x1="356.2" y1="54" x2="356.2" y2="212" class="week-grid"/><line x1="371.8" y1="54" x2="371.8" y2="212" class="week-grid"/><line x1="387.5" y1="54" x2="387.5" y2="212" class="week-grid"/><line x1="403.2" y1="54" x2="403.2" y2="212" class="week-grid"/><line x1="418.9" y1="54" x2="418.9" y2="212" class="week-grid"/><line x1="434.6" y1="54" x2="434.6" y2="212" class="week-grid"/><line x1="450.3" y1="54" x2="450.3" y2="212" class="week-grid"/><line x1="466" y1="54" x2="466" y2="212" class="week-grid"/><line x1="481.7" y1="54" x2="481.7" y2="212" class="week-grid"/><line x1="497.4" y1="54" x2="497.4" y2="212" class="week-grid"/><line x1="513.1" y1="54" x2="513.1" y2="212" class="week-grid"/><line x1="528.8" y1="54" x2="528.8" y2="212" class="week-grid"/><line x1="544.5" y1="54" x2="544.5" y2="212" class="week-grid"/><line x1="560.2" y1="54" x2="560.2" y2="212" class="week-grid"/><line x1="575.8" y1="54" x2="575.8" y2="212" class="week-grid"/><line x1="591.5" y1="54" x2="591.5" y2="212" class="week-grid"/><line x1="607.2" y1="54" x2="607.2" y2="212" class="week-grid"/><line x1="622.9" y1="54" x2="622.9" y2="212" class="week-grid"/><line x1="638.6" y1="54" x2="638.6" y2="212" class="week-grid"/><line x1="654.3" y1="54" x2="654.3" y2="212" class="week-grid"/><line x1="670" y1="54" x2="670" y2="212" class="week-grid"/><line x1="685.7" y1="54" x2="685.7" y2="212" class="week-grid"/><line x1="701.4" y1="54" x2="701.4" y2="212" class="week-grid"/><line x1="717.1" y1="54" x2="717.1" y2="212" class="week-grid"/><line x1="732.8" y1="54" x2="732.8" y2="212" class="week-grid"/><line x1="748.5" y1="54" x2="748.5" y2="212" class="week-grid"/><line x1="764.2" y1="54" x2="764.2" y2="212" class="week-grid"/><line x1="779.8" y1="54" x2="779.8" y2="212" class="week-grid"/><line x1="795.5" y1="54" x2="795.5" y2="212" class="week-grid"/><line x1="811.2" y1="54" x2="811.2" y2="212" class="week-grid"/><line x1="826.9" y1="54" x2="826.9" y2="212" class="week-grid"/><line x1="842.6" y1="54" x2="842.6" y2="212" class="week-grid"/><line x1="858.3" y1="54" x2="858.3" y2="212" class="week-grid"/><line x1="874" y1="54" x2="874" y2="212" class="week-grid"/>
 
@@ -55,168 +55,168 @@
       <text x="46" y="97.5" text-anchor="end" class="muted">189</text>
       <line x1="58" y1="54" x2="874" y2="54" stroke="#2f334d" stroke-width="1"/>
       <text x="46" y="58" text-anchor="end" class="muted">252</text>
-    <path d="M 58 212 L 58 212 L 73.7 127.4 L 89.4 161.8 L 105.1 54 L 120.8 165 L 136.5 55.9 L 152.2 128 L 167.8 128 L 183.5 133 L 199.2 123 L 214.9 168.1 L 230.6 175 L 246.3 165.6 L 262 151.2 L 277.7 174.4 L 293.4 149.3 L 309.1 158.1 L 324.8 178.1 L 340.5 154.3 L 356.2 137.4 L 371.8 176.9 L 387.5 205.1 L 403.2 178.8 L 418.9 197.6 L 434.6 186.9 L 450.3 208.2 L 466 207.6 L 481.7 199.5 L 497.4 193.2 L 513.1 188.8 L 528.8 193.2 L 544.5 188.8 L 560.2 163.7 L 575.8 149.3 L 591.5 140.5 L 607.2 171.9 L 622.9 171.2 L 638.6 163.1 L 654.3 169.4 L 670 211.4 L 685.7 175.6 L 701.4 173.1 L 717.1 193.2 L 732.8 198.8 L 748.5 195.1 L 764.2 131.7 L 779.8 173.8 L 795.5 209.5 L 811.2 181.9 L 826.9 148.7 L 842.6 129.2 L 858.3 164.3 L 874 148.7 L 874 212 Z" class="area" fill="url(#activityFill)"/>
-    <polyline points="58,212 73.7,127.4 89.4,161.8 105.1,54 120.8,165 136.5,55.9 152.2,128 167.8,128 183.5,133 199.2,123 214.9,168.1 230.6,175 246.3,165.6 262,151.2 277.7,174.4 293.4,149.3 309.1,158.1 324.8,178.1 340.5,154.3 356.2,137.4 371.8,176.9 387.5,205.1 403.2,178.8 418.9,197.6 434.6,186.9 450.3,208.2 466,207.6 481.7,199.5 497.4,193.2 513.1,188.8 528.8,193.2 544.5,188.8 560.2,163.7 575.8,149.3 591.5,140.5 607.2,171.9 622.9,171.2 638.6,163.1 654.3,169.4 670,211.4 685.7,175.6 701.4,173.1 717.1,193.2 732.8,198.8 748.5,195.1 764.2,131.7 779.8,173.8 795.5,209.5 811.2,181.9 826.9,148.7 842.6,129.2 858.3,164.3 874,148.7" class="line" pathLength="1" fill="none" stroke="#70a5fd" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M 58 212 L 58 127.4 L 73.7 161.8 L 89.4 54 L 105.1 165 L 120.8 55.9 L 136.5 128 L 152.2 128 L 167.8 133 L 183.5 123 L 199.2 168.1 L 214.9 175 L 230.6 165.6 L 246.3 151.2 L 262 174.4 L 277.7 149.3 L 293.4 158.1 L 309.1 178.1 L 324.8 154.3 L 340.5 137.4 L 356.2 176.9 L 371.8 205.1 L 387.5 178.8 L 403.2 197.6 L 418.9 186.9 L 434.6 208.2 L 450.3 207.6 L 466 199.5 L 481.7 193.2 L 497.4 188.8 L 513.1 193.2 L 528.8 188.8 L 544.5 163.7 L 560.2 149.3 L 575.8 140.5 L 591.5 171.9 L 607.2 171.2 L 622.9 163.1 L 638.6 169.4 L 654.3 211.4 L 670 175.6 L 685.7 173.1 L 701.4 193.2 L 717.1 198.8 L 732.8 195.1 L 748.5 131.7 L 764.2 173.8 L 779.8 209.5 L 795.5 181.9 L 811.2 148.7 L 826.9 129.2 L 842.6 164.3 L 858.3 143.7 L 874 212 L 874 212 Z" class="area" fill="url(#activityFill)"/>
+    <polyline points="58,127.4 73.7,161.8 89.4,54 105.1,165 120.8,55.9 136.5,128 152.2,128 167.8,133 183.5,123 199.2,168.1 214.9,175 230.6,165.6 246.3,151.2 262,174.4 277.7,149.3 293.4,158.1 309.1,178.1 324.8,154.3 340.5,137.4 356.2,176.9 371.8,205.1 387.5,178.8 403.2,197.6 418.9,186.9 434.6,208.2 450.3,207.6 466,199.5 481.7,193.2 497.4,188.8 513.1,193.2 528.8,188.8 544.5,163.7 560.2,149.3 575.8,140.5 591.5,171.9 607.2,171.2 622.9,163.1 638.6,169.4 654.3,211.4 670,175.6 685.7,173.1 701.4,193.2 717.1,198.8 732.8,195.1 748.5,131.7 764.2,173.8 779.8,209.5 795.5,181.9 811.2,148.7 826.9,129.2 842.6,164.3 858.3,143.7 874,212" class="line" pathLength="1" fill="none" stroke="#70a5fd" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
 
-      <circle cx="58" cy="212" r="3.2" class="point" style="animation-delay: 250ms">
-        <title>2025-10-04 to 2025-10-04: 0 contributions</title>
-      </circle>
-      <circle cx="73.7" cy="127.4" r="3.2" class="point" style="animation-delay: 274ms">
+      <circle cx="58" cy="127.4" r="3.2" class="point" style="animation-delay: 250ms">
         <title>2025-10-05 to 2025-10-11: 135 contributions</title>
       </circle>
-      <circle cx="89.4" cy="161.8" r="3.2" class="point" style="animation-delay: 298ms">
+      <circle cx="73.7" cy="161.8" r="3.2" class="point" style="animation-delay: 274ms">
         <title>2025-10-12 to 2025-10-18: 80 contributions</title>
       </circle>
-      <circle cx="105.1" cy="54" r="3.2" class="point" style="animation-delay: 322ms">
+      <circle cx="89.4" cy="54" r="3.2" class="point" style="animation-delay: 298ms">
         <title>2025-10-19 to 2025-10-25: 252 contributions</title>
       </circle>
-      <circle cx="120.8" cy="165" r="3.2" class="point" style="animation-delay: 346ms">
+      <circle cx="105.1" cy="165" r="3.2" class="point" style="animation-delay: 322ms">
         <title>2025-10-26 to 2025-11-01: 75 contributions</title>
       </circle>
-      <circle cx="136.5" cy="55.9" r="3.2" class="point" style="animation-delay: 370ms">
+      <circle cx="120.8" cy="55.9" r="3.2" class="point" style="animation-delay: 346ms">
         <title>2025-11-02 to 2025-11-08: 249 contributions</title>
       </circle>
-      <circle cx="152.2" cy="128" r="3.2" class="point" style="animation-delay: 394ms">
+      <circle cx="136.5" cy="128" r="3.2" class="point" style="animation-delay: 370ms">
         <title>2025-11-09 to 2025-11-15: 134 contributions</title>
       </circle>
-      <circle cx="167.8" cy="128" r="3.2" class="point" style="animation-delay: 418ms">
+      <circle cx="152.2" cy="128" r="3.2" class="point" style="animation-delay: 394ms">
         <title>2025-11-16 to 2025-11-22: 134 contributions</title>
       </circle>
-      <circle cx="183.5" cy="133" r="3.2" class="point" style="animation-delay: 442ms">
+      <circle cx="167.8" cy="133" r="3.2" class="point" style="animation-delay: 418ms">
         <title>2025-11-23 to 2025-11-29: 126 contributions</title>
       </circle>
-      <circle cx="199.2" cy="123" r="3.2" class="point" style="animation-delay: 466ms">
+      <circle cx="183.5" cy="123" r="3.2" class="point" style="animation-delay: 442ms">
         <title>2025-11-30 to 2025-12-06: 142 contributions</title>
       </circle>
-      <circle cx="214.9" cy="168.1" r="3.2" class="point" style="animation-delay: 490ms">
+      <circle cx="199.2" cy="168.1" r="3.2" class="point" style="animation-delay: 466ms">
         <title>2025-12-07 to 2025-12-13: 70 contributions</title>
       </circle>
-      <circle cx="230.6" cy="175" r="3.2" class="point" style="animation-delay: 514ms">
+      <circle cx="214.9" cy="175" r="3.2" class="point" style="animation-delay: 490ms">
         <title>2025-12-14 to 2025-12-20: 59 contributions</title>
       </circle>
-      <circle cx="246.3" cy="165.6" r="3.2" class="point" style="animation-delay: 538ms">
+      <circle cx="230.6" cy="165.6" r="3.2" class="point" style="animation-delay: 514ms">
         <title>2025-12-21 to 2025-12-27: 74 contributions</title>
       </circle>
-      <circle cx="262" cy="151.2" r="3.2" class="point" style="animation-delay: 562ms">
+      <circle cx="246.3" cy="151.2" r="3.2" class="point" style="animation-delay: 538ms">
         <title>2025-12-28 to 2026-01-03: 97 contributions</title>
       </circle>
-      <circle cx="277.7" cy="174.4" r="3.2" class="point" style="animation-delay: 586ms">
+      <circle cx="262" cy="174.4" r="3.2" class="point" style="animation-delay: 562ms">
         <title>2026-01-04 to 2026-01-10: 60 contributions</title>
       </circle>
-      <circle cx="293.4" cy="149.3" r="3.2" class="point" style="animation-delay: 610ms">
+      <circle cx="277.7" cy="149.3" r="3.2" class="point" style="animation-delay: 586ms">
         <title>2026-01-11 to 2026-01-17: 100 contributions</title>
       </circle>
-      <circle cx="309.1" cy="158.1" r="3.2" class="point" style="animation-delay: 634ms">
+      <circle cx="293.4" cy="158.1" r="3.2" class="point" style="animation-delay: 610ms">
         <title>2026-01-18 to 2026-01-24: 86 contributions</title>
       </circle>
-      <circle cx="324.8" cy="178.1" r="3.2" class="point" style="animation-delay: 658ms">
+      <circle cx="309.1" cy="178.1" r="3.2" class="point" style="animation-delay: 634ms">
         <title>2026-01-25 to 2026-01-31: 54 contributions</title>
       </circle>
-      <circle cx="340.5" cy="154.3" r="3.2" class="point" style="animation-delay: 682ms">
+      <circle cx="324.8" cy="154.3" r="3.2" class="point" style="animation-delay: 658ms">
         <title>2026-02-01 to 2026-02-07: 92 contributions</title>
       </circle>
-      <circle cx="356.2" cy="137.4" r="3.2" class="point" style="animation-delay: 706ms">
+      <circle cx="340.5" cy="137.4" r="3.2" class="point" style="animation-delay: 682ms">
         <title>2026-02-08 to 2026-02-14: 119 contributions</title>
       </circle>
-      <circle cx="371.8" cy="176.9" r="3.2" class="point" style="animation-delay: 730ms">
+      <circle cx="356.2" cy="176.9" r="3.2" class="point" style="animation-delay: 706ms">
         <title>2026-02-15 to 2026-02-21: 56 contributions</title>
       </circle>
-      <circle cx="387.5" cy="205.1" r="3.2" class="point" style="animation-delay: 754ms">
+      <circle cx="371.8" cy="205.1" r="3.2" class="point" style="animation-delay: 730ms">
         <title>2026-02-22 to 2026-02-28: 11 contributions</title>
       </circle>
-      <circle cx="403.2" cy="178.8" r="3.2" class="point" style="animation-delay: 778ms">
+      <circle cx="387.5" cy="178.8" r="3.2" class="point" style="animation-delay: 754ms">
         <title>2026-03-01 to 2026-03-07: 53 contributions</title>
       </circle>
-      <circle cx="418.9" cy="197.6" r="3.2" class="point" style="animation-delay: 802ms">
+      <circle cx="403.2" cy="197.6" r="3.2" class="point" style="animation-delay: 778ms">
         <title>2026-03-08 to 2026-03-14: 23 contributions</title>
       </circle>
-      <circle cx="434.6" cy="186.9" r="3.2" class="point" style="animation-delay: 826ms">
+      <circle cx="418.9" cy="186.9" r="3.2" class="point" style="animation-delay: 802ms">
         <title>2026-03-15 to 2026-03-21: 40 contributions</title>
       </circle>
-      <circle cx="450.3" cy="208.2" r="3.2" class="point" style="animation-delay: 850ms">
+      <circle cx="434.6" cy="208.2" r="3.2" class="point" style="animation-delay: 826ms">
         <title>2026-03-22 to 2026-03-28: 6 contributions</title>
       </circle>
-      <circle cx="466" cy="207.6" r="3.2" class="point" style="animation-delay: 874ms">
+      <circle cx="450.3" cy="207.6" r="3.2" class="point" style="animation-delay: 850ms">
         <title>2026-03-29 to 2026-04-04: 7 contributions</title>
       </circle>
-      <circle cx="481.7" cy="199.5" r="3.2" class="point" style="animation-delay: 898ms">
+      <circle cx="466" cy="199.5" r="3.2" class="point" style="animation-delay: 874ms">
         <title>2026-04-05 to 2026-04-11: 20 contributions</title>
       </circle>
-      <circle cx="497.4" cy="193.2" r="3.2" class="point" style="animation-delay: 922ms">
+      <circle cx="481.7" cy="193.2" r="3.2" class="point" style="animation-delay: 898ms">
         <title>2026-04-12 to 2026-04-18: 30 contributions</title>
       </circle>
-      <circle cx="513.1" cy="188.8" r="3.2" class="point" style="animation-delay: 946ms">
+      <circle cx="497.4" cy="188.8" r="3.2" class="point" style="animation-delay: 922ms">
         <title>2026-04-19 to 2026-04-25: 37 contributions</title>
       </circle>
-      <circle cx="528.8" cy="193.2" r="3.2" class="point" style="animation-delay: 970ms">
+      <circle cx="513.1" cy="193.2" r="3.2" class="point" style="animation-delay: 946ms">
         <title>2026-04-26 to 2026-05-02: 30 contributions</title>
       </circle>
-      <circle cx="544.5" cy="188.8" r="3.2" class="point" style="animation-delay: 994ms">
+      <circle cx="528.8" cy="188.8" r="3.2" class="point" style="animation-delay: 970ms">
         <title>2026-05-03 to 2026-05-09: 37 contributions</title>
       </circle>
-      <circle cx="560.2" cy="163.7" r="3.2" class="point" style="animation-delay: 1018ms">
+      <circle cx="544.5" cy="163.7" r="3.2" class="point" style="animation-delay: 994ms">
         <title>2026-05-10 to 2026-05-16: 77 contributions</title>
       </circle>
-      <circle cx="575.8" cy="149.3" r="3.2" class="point" style="animation-delay: 1042ms">
+      <circle cx="560.2" cy="149.3" r="3.2" class="point" style="animation-delay: 1018ms">
         <title>2026-05-17 to 2026-05-23: 100 contributions</title>
       </circle>
-      <circle cx="591.5" cy="140.5" r="3.2" class="point" style="animation-delay: 1066ms">
+      <circle cx="575.8" cy="140.5" r="3.2" class="point" style="animation-delay: 1042ms">
         <title>2026-05-24 to 2026-05-30: 114 contributions</title>
       </circle>
-      <circle cx="607.2" cy="171.9" r="3.2" class="point" style="animation-delay: 1090ms">
+      <circle cx="591.5" cy="171.9" r="3.2" class="point" style="animation-delay: 1066ms">
         <title>2026-05-31 to 2026-06-06: 64 contributions</title>
       </circle>
-      <circle cx="622.9" cy="171.2" r="3.2" class="point" style="animation-delay: 1114ms">
+      <circle cx="607.2" cy="171.2" r="3.2" class="point" style="animation-delay: 1090ms">
         <title>2026-06-07 to 2026-06-13: 65 contributions</title>
       </circle>
-      <circle cx="638.6" cy="163.1" r="3.2" class="point" style="animation-delay: 1138ms">
+      <circle cx="622.9" cy="163.1" r="3.2" class="point" style="animation-delay: 1114ms">
         <title>2026-06-14 to 2026-06-20: 78 contributions</title>
       </circle>
-      <circle cx="654.3" cy="169.4" r="3.2" class="point" style="animation-delay: 1162ms">
+      <circle cx="638.6" cy="169.4" r="3.2" class="point" style="animation-delay: 1138ms">
         <title>2026-06-21 to 2026-06-27: 68 contributions</title>
       </circle>
-      <circle cx="670" cy="211.4" r="3.2" class="point" style="animation-delay: 1186ms">
+      <circle cx="654.3" cy="211.4" r="3.2" class="point" style="animation-delay: 1162ms">
         <title>2026-06-28 to 2026-07-04: 1 contributions</title>
       </circle>
-      <circle cx="685.7" cy="175.6" r="3.2" class="point" style="animation-delay: 1210ms">
+      <circle cx="670" cy="175.6" r="3.2" class="point" style="animation-delay: 1186ms">
         <title>2026-07-05 to 2026-07-11: 58 contributions</title>
       </circle>
-      <circle cx="701.4" cy="173.1" r="3.2" class="point" style="animation-delay: 1234ms">
+      <circle cx="685.7" cy="173.1" r="3.2" class="point" style="animation-delay: 1210ms">
         <title>2026-07-12 to 2026-07-18: 62 contributions</title>
       </circle>
-      <circle cx="717.1" cy="193.2" r="3.2" class="point" style="animation-delay: 1258ms">
+      <circle cx="701.4" cy="193.2" r="3.2" class="point" style="animation-delay: 1234ms">
         <title>2026-07-19 to 2026-07-25: 30 contributions</title>
       </circle>
-      <circle cx="732.8" cy="198.8" r="3.2" class="point" style="animation-delay: 1282ms">
+      <circle cx="717.1" cy="198.8" r="3.2" class="point" style="animation-delay: 1258ms">
         <title>2026-07-26 to 2026-08-01: 21 contributions</title>
       </circle>
-      <circle cx="748.5" cy="195.1" r="3.2" class="point" style="animation-delay: 1306ms">
+      <circle cx="732.8" cy="195.1" r="3.2" class="point" style="animation-delay: 1282ms">
         <title>2026-08-02 to 2026-08-08: 27 contributions</title>
       </circle>
-      <circle cx="764.2" cy="131.7" r="3.2" class="point" style="animation-delay: 1330ms">
+      <circle cx="748.5" cy="131.7" r="3.2" class="point" style="animation-delay: 1306ms">
         <title>2026-08-09 to 2026-08-15: 128 contributions</title>
       </circle>
-      <circle cx="779.8" cy="173.8" r="3.2" class="point" style="animation-delay: 1354ms">
+      <circle cx="764.2" cy="173.8" r="3.2" class="point" style="animation-delay: 1330ms">
         <title>2026-08-16 to 2026-08-22: 61 contributions</title>
       </circle>
-      <circle cx="795.5" cy="209.5" r="3.2" class="point" style="animation-delay: 1378ms">
+      <circle cx="779.8" cy="209.5" r="3.2" class="point" style="animation-delay: 1354ms">
         <title>2026-08-23 to 2026-08-29: 4 contributions</title>
       </circle>
-      <circle cx="811.2" cy="181.9" r="3.2" class="point" style="animation-delay: 1402ms">
+      <circle cx="795.5" cy="181.9" r="3.2" class="point" style="animation-delay: 1378ms">
         <title>2026-08-30 to 2026-09-05: 48 contributions</title>
       </circle>
-      <circle cx="826.9" cy="148.7" r="3.2" class="point" style="animation-delay: 1426ms">
+      <circle cx="811.2" cy="148.7" r="3.2" class="point" style="animation-delay: 1402ms">
         <title>2026-09-06 to 2026-09-12: 101 contributions</title>
       </circle>
-      <circle cx="842.6" cy="129.2" r="3.2" class="point" style="animation-delay: 1450ms">
+      <circle cx="826.9" cy="129.2" r="3.2" class="point" style="animation-delay: 1426ms">
         <title>2026-09-13 to 2026-09-19: 132 contributions</title>
       </circle>
-      <circle cx="858.3" cy="164.3" r="3.2" class="point" style="animation-delay: 1474ms">
+      <circle cx="842.6" cy="164.3" r="3.2" class="point" style="animation-delay: 1450ms">
         <title>2026-09-20 to 2026-09-26: 76 contributions</title>
       </circle>
-      <circle cx="874" cy="148.7" r="3.2" class="point" style="animation-delay: 1498ms">
-        <title>2026-09-27 to 2026-10-03: 101 contributions</title>
+      <circle cx="858.3" cy="143.7" r="3.2" class="point" style="animation-delay: 1474ms">
+        <title>2026-09-27 to 2026-10-03: 109 contributions</title>
       </circle>
-    <text x="58" y="242" text-anchor="middle" class="muted">Oct</text><text x="120.8" y="242" text-anchor="middle" class="muted">Nov</text><text x="199.2" y="242" text-anchor="middle" class="muted">Dec</text><text x="262" y="242" text-anchor="middle" class="muted">Jan</text><text x="340.5" y="242" text-anchor="middle" class="muted">Feb</text><text x="403.2" y="242" text-anchor="middle" class="muted">Mar</text><text x="466" y="242" text-anchor="middle" class="muted">Apr</text><text x="528.8" y="242" text-anchor="middle" class="muted">May</text><text x="607.2" y="242" text-anchor="middle" class="muted">Jun</text><text x="670" y="242" text-anchor="middle" class="muted">Jul</text><text x="732.8" y="242" text-anchor="middle" class="muted">Aug</text><text x="811.2" y="242" text-anchor="middle" class="muted">Sep</text><text x="874" y="242" text-anchor="middle" class="muted">Oct</text>
+      <circle cx="874" cy="212" r="3.2" class="point" style="animation-delay: 1498ms">
+        <title>2026-10-04 to 2026-10-04: 0 contributions</title>
+      </circle>
+    <text x="58" y="242" text-anchor="middle" class="muted">Oct</text><text x="105.1" y="242" text-anchor="middle" class="muted">Nov</text><text x="183.5" y="242" text-anchor="middle" class="muted">Dec</text><text x="246.3" y="242" text-anchor="middle" class="muted">Jan</text><text x="324.8" y="242" text-anchor="middle" class="muted">Feb</text><text x="387.5" y="242" text-anchor="middle" class="muted">Mar</text><text x="450.3" y="242" text-anchor="middle" class="muted">Apr</text><text x="513.1" y="242" text-anchor="middle" class="muted">May</text><text x="591.5" y="242" text-anchor="middle" class="muted">Jun</text><text x="654.3" y="242" text-anchor="middle" class="muted">Jul</text><text x="717.1" y="242" text-anchor="middle" class="muted">Aug</text><text x="795.5" y="242" text-anchor="middle" class="muted">Sep</text><text x="858.3" y="242" text-anchor="middle" class="muted">Oct</text>
   </g>
 </svg>
