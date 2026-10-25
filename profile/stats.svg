@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Oliver Lin&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 33, Total Commits  (last year) : 1822, Total PRs: 627, Total Issues: 119, Contributed to (last year): 66</desc>
+        <desc id="descId">Total Stars Earned: 33, Total Commits  (last year) : 1845, Total PRs: 629, Total Issues: 121, Contributed to (last year): 67</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 56.50554416620392;
+        stroke-dashoffset: 56.331033260703265;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >627</text>
+      >629</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >119</text>
+      >121</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >66</text>
+      >67</text>
     </g>
   </g>
     </svg>
