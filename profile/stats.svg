@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Oliver Lin&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 36, Total Commits  (last year) : 1757, Total PRs: 635, Total Issues: 121, Contributed to (last year): 69</desc>
+        <desc id="descId">Total Stars Earned: 36, Total Commits  (last year) : 1760, Total PRs: 635, Total Issues: 121, Contributed to (last year): 69</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 54.7551825118084;
+        stroke-dashoffset: 54.752523920510754;
       }
     }
   
